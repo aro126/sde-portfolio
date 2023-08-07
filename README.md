@@ -1,3 +1,5 @@
+This project was based off of a tutorial by PedroTech. [The tutorial can be found here.](https://youtu.be/x7mwVn2z3Sk)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
