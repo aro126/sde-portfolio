@@ -7,9 +7,13 @@
     flex-direction: column;
 }
 
+.projects h1 {
+    color: #212e4b;
+}
+
 .projects .projectTitle {
     text-align: center;
-    color: #3e497a;
+    color: #212e4b;
     font-size: 60px;
     font-weight: bolder;
 }
@@ -29,13 +33,14 @@
     width: 300px;
     height: 300px;
     margin: 40px;
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 15px rgba(50, 80, 120, 0.5);
     text-align: center;
+    background-color: #f6fffe;
 }
 
 .projectItem:hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
-    transition: 0.3s ease-in;
+    box-shadow: 0px 3px 15px rgba(50, 80, 120, 0.8);
+    transition: 0.4s ease-in;
     cursor: pointer;
 }
 
