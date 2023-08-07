@@ -1,10 +1,11 @@
 .project {
-    width: 100%;
-    height: calc(100vh - 100px);
+    max-width: 100%;
+    min-height: calc(100vh - 100px);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 0 5% 0 5%;
 }
 
 .project h1 {
@@ -14,12 +15,12 @@
 }
 
 .project img {
-    width: 70%;
+    width: 80%;
     border-radius: 10px;
 }
 
 .project p {
-    font-size: 40px;
+    font-size: 30px;
     color: #3e497a;
 }
 
