@@ -28,16 +28,12 @@ function Home() {
         <h1>Skills</h1>
         <ol className="list">
           <li className="item">
-            <h2>Front-End</h2>
-            <span>HTML, CSS, React Native</span>
-          </li>
-          <li className="item">
-            <h2>Back-End</h2>
-            <span>SQL, ...</span>
-          </li>
-          <li className="item">
             <h2>Languages</h2>
-            <span>Java, Python, Javascript, C#, C, TypeScript</span>
+            <span>Java, Python, Javascript, HTML, CSS, NoSQL, C#, C, TypeScript</span>
+          </li>
+          <li className="item">
+            <h2>Technologies</h2>
+            <span>Git, Github, React.js, Figma</span>
           </li>
         </ol>
       </div>

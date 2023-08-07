@@ -33,7 +33,7 @@
 
 .prompt svg {
     font-size: 60px;
-    margin: 5px;
+    margin: 15px;
     color: #90dda4;
 }
 
@@ -48,6 +48,7 @@
 
 .skills h1 {
     color: #212e4b;
+    margin-bottom: -20px;
 }
 
 .skills .list {
