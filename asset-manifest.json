@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/home/static/css/main.34a37769.css",
-    "main.js": "/home/static/js/main.6333e6fc.js",
+    "main.js": "/home/static/js/main.588e7cb3.js",
     "static/js/787.fb771931.chunk.js": "/home/static/js/787.fb771931.chunk.js",
     "static/media/restful-movie-db.png": "/home/static/media/restful-movie-db.60ea7601c161467d3ad6.png",
     "static/media/javascript-wordle.png": "/home/static/media/javascript-wordle.9e04aa98b2b139840686.png",
     "static/media/RobotImgRec.jpg": "/home/static/media/RobotImgRec.12ae8af02567588a2468.jpg",
     "index.html": "/home/index.html",
     "main.34a37769.css.map": "/home/static/css/main.34a37769.css.map",
-    "main.6333e6fc.js.map": "/home/static/js/main.6333e6fc.js.map",
+    "main.588e7cb3.js.map": "/home/static/js/main.588e7cb3.js.map",
     "787.fb771931.chunk.js.map": "/home/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34a37769.css",
-    "static/js/main.6333e6fc.js"
+    "static/js/main.588e7cb3.js"
   ]
 }
