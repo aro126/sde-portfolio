@@ -1,4 +1,3 @@
-import SampleImg from "../assets/warm_colorful.jpeg";
 import RobotImgRec from "../assets/RobotImgRec.jpg";
 import MongoDBImg from "../assets/restful-movie-db.png";
 import WordleImg from "../assets/javascript-wordle.png";
@@ -51,27 +50,6 @@ export const ProjectList = [
             </span>,
         video: <iframe src="https://www.youtube.com/embed/yTCOrPnsdTM?si=0HpIf5NMzyMP1mOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         link: "https://github.com/aro126/javascript-wordle"
-    },
-    {
-        name: "Project3",
-        image: SampleImg,
-        skills: "example, example",
-        desc: "example",
-        link: "https://www.google.com/"
-    },
-    {
-        name: "Project4",
-        image: SampleImg,
-        skills: "example, example",
-        desc: "example",
-        link: "https://www.google.com/"
-    },
-    {
-        name: "Project5",
-        image: SampleImg,
-        skills: "example, example",
-        desc: "example",
-        link: "https://www.google.com/"
     },
     {
         name: "Robot Image Recognition",
