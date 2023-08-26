@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sde-portfolio/static/css/main.34a37769.css",
+    "main.js": "/sde-portfolio/static/js/main.3edb3675.js",
+    "static/js/787.fb771931.chunk.js": "/sde-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/restful-movie-db.png": "/sde-portfolio/static/media/restful-movie-db.60ea7601c161467d3ad6.png",
+    "static/media/javascript-wordle.png": "/sde-portfolio/static/media/javascript-wordle.9e04aa98b2b139840686.png",
+    "static/media/RobotImgRec.jpg": "/sde-portfolio/static/media/RobotImgRec.12ae8af02567588a2468.jpg",
+    "index.html": "/sde-portfolio/index.html",
+    "main.34a37769.css.map": "/sde-portfolio/static/css/main.34a37769.css.map",
+    "main.3edb3675.js.map": "/sde-portfolio/static/js/main.3edb3675.js.map",
+    "787.fb771931.chunk.js.map": "/sde-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a37769.css",
+    "static/js/main.3edb3675.js"
+  ]
+}
