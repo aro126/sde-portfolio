@@ -26,7 +26,7 @@ export const ProjectList = [
                     </li>
                 </ul>
             </span>,
-        video: <iframe width="560" height="315" src="https://www.youtube.com/embed/hhTtujJF97Y?si=Rbc0Mvy_C2LGS7yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
+        video: <iframe src="https://www.youtube.com/embed/hhTtujJF97Y?si=Rbc0Mvy_C2LGS7yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         link: "https://github.com/aro126/restful-movie-db"
     },
     {
@@ -49,7 +49,7 @@ export const ProjectList = [
                     </li>
                 </ul>
             </span>,
-        video: <iframe width="560" height="315" src="https://www.youtube.com/embed/yTCOrPnsdTM?si=0HpIf5NMzyMP1mOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
+        video: <iframe src="https://www.youtube.com/embed/yTCOrPnsdTM?si=0HpIf5NMzyMP1mOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         link: "https://github.com/aro126/javascript-wordle"
     },
     {

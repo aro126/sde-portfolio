@@ -20,6 +20,7 @@ function ProjectDisplay() {
             <p><b>Video Demo:</b></p>
             {project.video}
             <br></br><br></br>
+            <p><b>View my code:</b></p>
             <a href={project.link} target="_blank" rel="noreferrer">
                 <GithubIcon />
             </a>
