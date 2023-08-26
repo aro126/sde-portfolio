@@ -1,6 +1,12 @@
-This project was based off of a tutorial by PedroTech. [The tutorial can be found here.](https://youtu.be/x7mwVn2z3Sk)
+# Personal Portfolio Project
 
-# Getting Started with Create React App
+This site can be viewed here: [My Portfolio Project](https://aro126.github.io/sde-portfolio/)
+
+This project was based on a tutorial by PedroTech: [Code and Deploy A React Portfolio](https://youtu.be/x7mwVn2z3Sk)
+<br>
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
