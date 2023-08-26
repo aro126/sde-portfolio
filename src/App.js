@@ -13,10 +13,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/home" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/project/:id" element={<ProjectDisplay />} />
-          <Route path="/experience" element={<Experience />} />
+          <Route path="/sde-portfolio/" element={<Home />} />
+          <Route path="/sde-portfolio/projects" element={<Projects />} />
+          <Route path="/sde-portfolio/project/:id" element={<ProjectDisplay />} />
+          <Route path="/sde-portfolio/experience" element={<Experience />} />
         </Routes>
         <Footer />
       </Router>
