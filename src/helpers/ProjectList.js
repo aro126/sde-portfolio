@@ -4,9 +4,9 @@ import WordleImg from "../assets/javascript-wordle.png";
 
 export const ProjectList = [
     {
-        name: "MongoDB Restful Movie Database",
+        name: "MongoDB RESTful Movie Database",
         image: MongoDBImg,
-        skills: "MongoDB, JavaScript, HTML, CSS, Relational Databases",
+        skills: "MongoDB, JavaScript, HTML, CSS, RESTful APIs, HapiJS",
         desc:
             <span>
                 For this project, I queried a MongoDB database and formatted the queried objects in a simple webpage.
