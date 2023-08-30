@@ -15,7 +15,10 @@
 }
 
 .project img {
-    width: 80%;
+    min-width: 20%;
+    max-width: 80%;
+    min-height: 20vh;
+    max-height: 50vh;
     border-radius: 10px;
 }
 
