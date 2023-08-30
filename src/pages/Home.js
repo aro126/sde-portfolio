@@ -29,7 +29,7 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Java, Python, Javascript, HTML, CSS, NoSQL, C#, C, TypeScript</span>
+            <span>Java, Python, Javascript, HTML, CSS, C#, C, TypeScript</span>
           </li>
           <li className="item">
             <h2>Technologies</h2>
