@@ -1,5 +1,6 @@
 import RobotImgRec from "../assets/RobotImgRec.jpg";
 import MongoDBImg from "../assets/restful-movie-db.png";
+import CalculatorImg from "../assets/calculator-app.png";
 import WordleImg from "../assets/javascript-wordle.png";
 
 export const ProjectList = [
@@ -27,6 +28,31 @@ export const ProjectList = [
             </span>,
         video: <iframe src="https://www.youtube.com/embed/hhTtujJF97Y?si=Rbc0Mvy_C2LGS7yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         link: "https://github.com/aro126/restful-movie-db"
+    },
+    {
+        name: "Calculator App with Java Swing",
+        image: CalculatorImg,
+        skills: "Java, Java Swing",
+        desc:
+            <span>
+                For this project, I created a simple calculator app using Java Swing. 
+                <br></br><br></br>
+                The following documents were used for this project:
+                <ul>
+                    <li>
+                        <a href="https://docs.oracle.com/javase/tutorial/uiswing/start/index.html" target="_blank" rel="noreferrer">
+                            Getting Started with Swing by Oracle
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://medium.com/prodsters/how-to-build-a-desktop-application-with-java-a34ee9c18ee3" target="_blank" rel="noreferrer">
+                            How to Build a Desktop Application with Java by Seun Matt
+                        </a>
+                    </li>
+                </ul>
+            </span>,
+        video: <p>Coming Soon</p>,
+        link: "https://github.com/aro126/java-calculator-app"
     },
     {
         name: "Wordle JavaScript Remake",
