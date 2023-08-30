@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sde-portfolio/static/css/main.136a5788.css",
-    "main.js": "/sde-portfolio/static/js/main.c512b7bd.js",
+    "main.js": "/sde-portfolio/static/js/main.de278ba6.js",
     "static/js/787.fb771931.chunk.js": "/sde-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/restful-movie-db.png": "/sde-portfolio/static/media/restful-movie-db.60ea7601c161467d3ad6.png",
     "static/media/javascript-wordle.png": "/sde-portfolio/static/media/javascript-wordle.9e04aa98b2b139840686.png",
@@ -9,11 +9,11 @@
     "static/media/RobotImgRec.jpg": "/sde-portfolio/static/media/RobotImgRec.12ae8af02567588a2468.jpg",
     "index.html": "/sde-portfolio/index.html",
     "main.136a5788.css.map": "/sde-portfolio/static/css/main.136a5788.css.map",
-    "main.c512b7bd.js.map": "/sde-portfolio/static/js/main.c512b7bd.js.map",
+    "main.de278ba6.js.map": "/sde-portfolio/static/js/main.de278ba6.js.map",
     "787.fb771931.chunk.js.map": "/sde-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136a5788.css",
-    "static/js/main.c512b7bd.js"
+    "static/js/main.de278ba6.js"
   ]
 }
