@@ -2,6 +2,7 @@ import RobotImgRec from "../assets/RobotImgRec.jpg";
 import MongoDBImg from "../assets/restful-movie-db.png";
 import CalculatorImg from "../assets/calculator-app.png";
 import WordleImg from "../assets/javascript-wordle.png";
+import PortfolioImg from "../assets/reactjs-portfolio.png";
 
 export const ProjectList = [
     {
@@ -76,6 +77,25 @@ export const ProjectList = [
             </span>,
         video: <iframe src="https://www.youtube.com/embed/yTCOrPnsdTM?si=0HpIf5NMzyMP1mOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
         link: "https://github.com/aro126/javascript-wordle"
+    },
+    {
+        name: "ReactJS Portfolio Website",
+        image: PortfolioImg,
+        skills: "ReactJS, NodeJS, JavaScript, HTML, CSS",
+        desc:
+            <span>
+                I created my portfolio website (this site) using ReactJS. <br></br><br></br>
+                The following tutorial was used for this project:
+                <ul>
+                    <li>
+                        <a href="https://youtu.be/x7mwVn2z3Sk" target="_blank" rel="noreferrer">
+                            Code & Deploy a React Tutorial by PedroTech
+                        </a>
+                    </li>
+                </ul>
+            </span>,
+        video: <p>Not available</p>,
+        link: "https://github.com/aro126/sde-portfolio"
     },
     {
         name: "Robot Image Recognition",

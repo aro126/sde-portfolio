@@ -38,7 +38,7 @@ function Home() {
           <li className="item">
             <br></br>
             <br></br>
-            <span>*Disclaimer: As a recent graduate, I would consider myself a novice in all listed skills.</span>
+            <span>*As a recent graduate, I would consider myself a novice in all listed skills.</span>
           </li>
         </ol>
       </div>
