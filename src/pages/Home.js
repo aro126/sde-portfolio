@@ -35,11 +35,6 @@ function Home() {
             <h2>Technologies</h2>
             <span>Github, MongoDB, React.js, Node.js, Figma</span>
           </li>
-          <li className="item">
-            <br></br>
-            <br></br>
-            <span>*As a recent graduate, I would consider myself a novice in all listed skills.</span>
-          </li>
         </ol>
       </div>
     </div>
