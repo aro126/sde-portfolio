@@ -32,8 +32,8 @@ function Home() {
             <span>Java, Python, Javascript, HTML, CSS, C#, C, TypeScript</span>
           </li>
           <li className="item">
-            <h2>Technologies</h2>
-            <span>Github, MongoDB, React.js, Node.js, Figma</span>
+            <h2>Tools and Frameworks</h2>
+            <span>Github, MongoDB, Scikit-learn, React.js, Node.js, Figma</span>
           </li>
         </ol>
       </div>
