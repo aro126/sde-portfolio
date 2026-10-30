@@ -20,6 +20,8 @@ xcuserdata/
 **/build/
 !src/**/build/
 
+.vs
+
 # Ignore Gradle GUI config
 gradle-app.setting
 

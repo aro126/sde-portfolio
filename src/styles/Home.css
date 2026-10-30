@@ -19,11 +19,17 @@
 
 .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 80px;
+    font-size: clamp(1.5rem, 4vw + 1rem, 3rem);
+    /*font-size: 10%;*/
     color: #90dda4;
-    min-height: 50px;
+    /*min-height: 50px;*/
     margin-bottom: 10px;
     max-width: 90%;
+}
+
+.skills h2 {
+    font-size: 30px;
+    margin-bottom: 0;
 }
 
 .about .prompt {
@@ -60,10 +66,15 @@
     font-size: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-    .about h2 {
+.profile_pic {
+    width: clamp(10rem, 15vw + 1rem, 25rem);
+    border-radius: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+   /* .about h2 {
         font-size: 40px;
-    }
+    }*/
 
     .about .prompt {
         margin-top: 10px;
@@ -77,9 +88,5 @@
 
     .list {
         padding: 0;
-    }
-
-    .skills h2 {
-        font-size: 30px;
     }
 }

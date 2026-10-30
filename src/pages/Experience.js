@@ -9,7 +9,24 @@ import WorkIcon from "@material-ui/icons/Work";
 function Experience() {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#31695f">
+        <VerticalTimeline lineColor="#31695f">
+            <VerticalTimelineElement
+                className="vertical-timeline-element--education"
+                date="2024-2026"
+                iconStyle={{ background: "#212e4b", color: "#90dda4" }}
+                icon={<WorkIcon />}
+            >
+                <h3 className="vertical-timeline-element-title">
+                    Software Engineer
+                </h3>
+                <h4 className="vertical-timeline-element-subtitle">
+                   Meta
+                </h4>
+                  <p>Gained experience navigating the monetization of user interactions and evolving
+                      consumer privacy laws, such as CCPA. Kept code up-to-date with said policies
+                      and ensured no privacy leaks/concerns.
+                </p>
+            </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2023"
@@ -25,22 +42,6 @@ function Experience() {
           <p>Obtained degree in Computer Science. Coursework 
             included Object Oriented Design, Data Structures and 
             Algorithms, Discrete Mathematics, etc.
-          </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2022-2023"
-          iconStyle={{ background: "#212e4b", color: "#90dda4" }}
-          icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            UX Design Certificate
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Google Career Certificate
-          </h4>
-          <p>Currently completing Google's UX certificate to gain
-            more knowledge of design principles (largely for personal projects).
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement

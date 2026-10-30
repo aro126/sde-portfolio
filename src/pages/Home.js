@@ -2,16 +2,20 @@ import React from 'react';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
+import AmberImg from "../assets/Amber.png";
 import "../styles/Home.css";
 
 function Home() {
   return (
     <div className="Home">
       <div className="about">
-        <h2>Hi, My Name is Amber</h2>
+      <img className="profile_pic" src={AmberImg} alt="Headshot of Amber looking very nice and professional" />
+        <h2>Hi, my name is Amber</h2>
         <div className="prompt">
           <p>
-            A recent graduate passionate about furthering my skills.
+            A software engineer with 2 years of experience navigating the monetization of user interactions and evolving
+consumer privacy laws, such as CCPA. Passionate about gaining more knowledge and skills as a software
+engineer.
           </p>
           <a href="https://www.linkedin.com/in/amber-ott/" target="_blank" rel="noreferrer">
             <LinkedInIcon />
@@ -29,12 +33,16 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Java, Python, Javascript, HTML, CSS, C#, C, TypeScript</span>
+            <span>Java, Python, C#, JavaScript, NoSQL, SQL, HTML/CSS, Hack (dialect of PHP)</span>
           </li>
           <li className="item">
-            <h2>Tools and Frameworks</h2>
-            <span>Github, MongoDB, Scikit-learn, React.js, Node.js, Figma</span>
+            <h2>Frameworks and Libraries</h2>
+            <span>React, Node.js, JUnit, Material-UI</span>
           </li>
+          <li className="item">
+            <h2>Tools</h2>
+            <span>Git, MongoDB, Visual Studio, Android Studio, IntelliJ</span>
+            </li>   
         </ol>
       </div>
     </div>
